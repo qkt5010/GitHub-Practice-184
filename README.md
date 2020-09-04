@@ -101,7 +101,7 @@
 | Thomas Schindler        | Section 003         | tvs5625              | <https://tvs5625.github.io/Stat184/>.                   |
 | Prithvi Rana            | Section 003         | PrithviRana1         | <https://prithvirana1.github.io/>                       |
 | Cinah Pourhamidi        | Section 003         | Cinah465             | <https://cinah465.github.io/STAT184/>                   |
-
+| Qiaojuan Tu             | Section 001         | qkt5010              | <https://qkt5010.github.io/readme/>                     |
 # Integration of RStudio with Git
 
 - Simplified instructions: Canvas >> STAT 184 >> Files >> GitHub-RStudio-Config.html  
